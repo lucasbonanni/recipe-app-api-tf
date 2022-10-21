@@ -1,0 +1,1 @@
+[AWS cost estimate](https://docs.google.com/spreadsheets/d/1VNup01_bFZRSKzra6FSo-WDDM1ZzL2IRmuq99NZ5WgY/edit#gid=0)
